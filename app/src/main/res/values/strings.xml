@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bug测试</string>
+    <string name="alirtc_permission">请先给予权限</string>
+</resources>
